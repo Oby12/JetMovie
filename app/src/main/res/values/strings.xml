@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">JetMovie</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_Profile">Profile</string>
+    <string name="menu_profile">Profile</string>
+    <string name="required_point">Rp.%d</string>
+    <string name="detail_text">Detail Movie</string>
+    <string name="back_text">Back</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="total_price_text">Rpsaerfwtfws</string>
+    <string name="ini_harga">this price</string>
+    <string name="add_to_cart">Add To Cart : Rp.%d</string>
+    <string name="share_message">hello today i buy a ticket for watching movie with the price is Rp.%1$d</string>
+    <string name="total_order">Order Total : Rp.%d</string>
+    <string name="menu_cart">Cart</string>
+    <string name="movie_time">Movie Time</string>
+    <string name="search_movie">search movies</string>
+    <string name="title_text">Title :</string>
+    <string name="price_text">Price :</string>
+    <string name="sinopsis_text">Sinopsis :</string>
+    <string name="plus_symbol">+</string>
+    <string name="back">Back</string>
+    <string name="Profile_text">Profile</string>
+    <string name="minus_symbol">-</string>
+    <string name="name_text">Name :</string>
+    <string name="name_text_profile">Name :</string>
+    <string name="bobby_saputra">Bobby Saputra</string>
+    <string name="email_text">Email :</string>
+    <string name="bobby_email">bobbysaputra514@gmail.com</string>
+</resources>
